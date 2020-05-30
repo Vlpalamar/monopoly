@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\visual studio\Kursach_poputka2\Source.cpp(355,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(396,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(405,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(413,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(436,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(443,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(449,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(496,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\visual studio\Kursach_poputka2\Source.cpp(681,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\visual studio\Kursach_poputka2\Source.cpp(1024,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kursach_poputka2.vcxproj -> D:\visual studio\Kursach_poputka2\Debug\Kursach_poputka2.exe
